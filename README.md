@@ -12,3 +12,5 @@ Please list all the learning web url
 02-05-2024 - Learned the CSS Selectors and Box model from YouTube - https://youtu.be/vfs1wBDoqBY?feature=shared
 
 03-05-2024 - Learned the JavaScript from YouTube - https://youtu.be/poo0BXryffI?feature=shared
+
+04-05-2024 - Learned the JavaScript - 3 ways of declaring variables, Operators, Increment Operators, Decrement Operators, Post Increment, Pre Increment, Post Decrement, Pre Decrement, Data Types from YouTube - https://youtu.be/poo0BXryffI?feature=shared
