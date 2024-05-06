@@ -14,3 +14,7 @@ Please list all the learning web url
 03-05-2024 - Learned the JavaScript from YouTube - https://youtu.be/poo0BXryffI?feature=shared
 
 04-05-2024 - Learned the JavaScript - 3 ways of declaring variables, Operators, Increment Operators, Decrement Operators, Post Increment, Pre Increment, Post Decrement, Pre Decrement, Data Types from YouTube - https://youtu.be/poo0BXryffI?feature=shared
+
+05-05-2024 - Learned the JavaScript - Data types, Functions, return type, Conditional statement, Logical, Loop from YouTube - https://youtu.be/poo0BXryffI?feature=shared
+
+06-05-2024 - Learned the JavaScript - DOM Manipulation, DOM Tree, Event, Event handler, Types of event from YouTube - https://youtu.be/poo0BXryffI?feature=shared
