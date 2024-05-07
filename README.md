@@ -18,3 +18,5 @@ Please list all the learning web url
 05-05-2024 - Learned the JavaScript - Data types, Functions, return type, Conditional statement, Logical, Loop from YouTube - https://youtu.be/poo0BXryffI?feature=shared
 
 06-05-2024 - Learned the JavaScript - DOM Manipulation, DOM Tree, Event, Event handler, Types of event from YouTube - https://youtu.be/poo0BXryffI?feature=shared
+
+07-05-2024 - Learned the JavaScript - Create random number, Manipulating css style, innerHTML, Different ways of selecting an element from YouTube - https://youtu.be/poo0BXryffI?feature=shared
