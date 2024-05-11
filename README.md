@@ -24,3 +24,5 @@ Please list all the learning web url
 08-05-2024 - Learned the SQL (https://youtu.be/QvTo1_-n0UE?feature=shared) , SQL vs NQSQL (https://youtu.be/53eqvG3-1AM?feature=shared) , DDL Commands (https://youtu.be/zHjpQnmA9sg?feature=shared), DML Commands (https://youtu.be/xPhImdnkJyo?feature=shared), SQL Practice Questions (https://youtu.be/uhWu8JBRIa0?feature=shared) from YouTube
 
 09-05-2024 - Learned the SQL Aggregate Functions (https://youtu.be/-FfEiNu2ar8?feature=shared) , Group by & Order by (https://youtu.be/Y7Kqbc0sDGI?feature=shared) , Having clause (https://youtu.be/5682golSP5I?feature=shared), Practice Questions (https://youtu.be/tcjcjHX9wcA?feature=shared), Primary key (https://youtu.be/GnOSxrLh3_0?feature=shared) from YouTube
+
+10-05-2024 - Learned the Bootstrap from YouTube - https://youtu.be/sJawlsHweqc?feature=shared
