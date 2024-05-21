@@ -36,3 +36,7 @@ Please list all the learning web url
 14-05-2024 - Learned the python list & it's function, Tuple & it's function, set & it's function, Dictionary & it's function, Identity Operators (is, is not), Membership Operators, User define function from YouTube - https://youtu.be/Yp_tqu22zIU?si=eLoJ4R52bBwbM6Gc
 
 15-05-2024 - Learned the python 9 Types of function (no return type without arguments function, no return type with arguments function, return type without arguments function, return type with arguments function, arbitrary arguments function, Keyword arguments function, arbitrary Keyword function, default parameter function, passing a list as an argument), Recursive function, lambda function, Data time package from YouTube - https://youtu.be/Yp_tqu22zIU?si=eLoJ4R52bBwbM6Gc
+
+16-05-2024 - Learned the python exception handling, File handling, Oops Concepts (Class, Object, Polymorphism, Inheritance, Encapsulation, Abstraction) from YouTube - https://youtu.be/m67-bOpOoPU?si=A5yNDzaCKMcAna-f
+
+17-05-2024 - Learned the Git and GitHub from YouTube - https://youtu.be/VIBWdLLq9kQ?si=wp6pvahrIr0viMAC
