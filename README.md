@@ -40,3 +40,7 @@ Please list all the learning web url
 16-05-2024 - Learned the python exception handling, File handling, Oops Concepts (Class, Object, Polymorphism, Inheritance, Encapsulation, Abstraction) from YouTube - https://youtu.be/m67-bOpOoPU?si=A5yNDzaCKMcAna-f
 
 17-05-2024 - Learned the Git and GitHub from YouTube - https://youtu.be/VIBWdLLq9kQ?si=wp6pvahrIr0viMAC
+
+18-05-2024 - Learned the JQUERY from YouTube - https://youtu.be/QhQ4m5g2fhA?si=G0T2Gi_LNFysj2iX
+
+19-05-2024 - Learned the JQUERY Selectors, Events, Effects from YouTube - https://youtu.be/QhQ4m5g2fhA?si=G0T2Gi_LNFysj2iX
