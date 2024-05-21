@@ -44,3 +44,7 @@ Please list all the learning web url
 18-05-2024 - Learned the JQUERY from YouTube - https://youtu.be/QhQ4m5g2fhA?si=G0T2Gi_LNFysj2iX
 
 19-05-2024 - Learned the JQUERY Selectors, Events, Effects from YouTube - https://youtu.be/QhQ4m5g2fhA?si=G0T2Gi_LNFysj2iX
+
+20-05-2024 - Learned the AJAX from YouTube - https://youtu.be/82hnvUYY6QA?si=4DcwKIj317JTGd3Y
+
+21-05-2024 - Learned the AJAX from YouTube - https://youtu.be/82hnvUYY6QA?si=4DcwKIj317JTGd3Y
