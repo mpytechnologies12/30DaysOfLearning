@@ -48,3 +48,9 @@ Please list all the learning web url
 20-05-2024 - Learned the AJAX from YouTube - https://youtu.be/82hnvUYY6QA?si=4DcwKIj317JTGd3Y
 
 21-05-2024 - Learned the AJAX from YouTube - https://youtu.be/82hnvUYY6QA?si=4DcwKIj317JTGd3Y
+
+22-05-2024 - Learned the LINQ from YouTube - https://youtu.be/kjEafezHJw4?si=PLgC-l6PgjX6VYm1
+
+23-05-2024 - Learned the LINQ from YouTube - https://youtu.be/kjEafezHJw4?si=PLgC-l6PgjX6VYm1
+
+24-05-2024 - Learned the LINQ from YouTube - https://youtu.be/kjEafezHJw4?si=PLgC-l6PgjX6VYm1
