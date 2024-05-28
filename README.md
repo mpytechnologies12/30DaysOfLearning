@@ -58,3 +58,5 @@ Please list all the learning web url
 25-05-2024 - Learned the .NET CORE WEB API from YouTube - https://youtu.be/SQrtXFTPdN0?si=_nfEuLhcD8rUg4J4
 
 26-05-2024 - Learned the .NET CORE WEB API from YouTube - https://youtu.be/SQrtXFTPdN0?si=_nfEuLhcD8rUg4J4
+
+27-05-2024 - Learned the Entity Framework from YouTube - https://youtu.be/e9yxeoDRQn0?si=CH5H5jk42s3rackC
