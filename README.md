@@ -54,3 +54,7 @@ Please list all the learning web url
 23-05-2024 - Learned the LINQ from YouTube - https://youtu.be/kjEafezHJw4?si=PLgC-l6PgjX6VYm1
 
 24-05-2024 - Learned the LINQ from YouTube - https://youtu.be/kjEafezHJw4?si=PLgC-l6PgjX6VYm1
+
+25-05-2024 - Learned the .NET CORE WEB API from YouTube - https://youtu.be/SQrtXFTPdN0?si=_nfEuLhcD8rUg4J4
+
+26-05-2024 - Learned the .NET CORE WEB API from YouTube - https://youtu.be/SQrtXFTPdN0?si=_nfEuLhcD8rUg4J4
