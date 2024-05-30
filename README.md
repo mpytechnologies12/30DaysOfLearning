@@ -61,4 +61,6 @@ Please list all the learning web url
 
 27-05-2024 - Learned the Entity Framework from YouTube - https://youtu.be/e9yxeoDRQn0?si=CH5H5jk42s3rackC
 
-28-05-2025 - Learned the REST API from YouTube - https://youtu.be/BZi44GOD8kY?si=rpSLiV_L7LrRPR3N and Learned the C# from YouTube - https://youtu.be/ciFCKxjuirM?si=Ls6HzWUlFz3C0sXp
+28-05-2024 - Learned the REST API from YouTube - https://youtu.be/BZi44GOD8kY?si=rpSLiV_L7LrRPR3N and Learned the C# from YouTube - https://youtu.be/ciFCKxjuirM?si=Ls6HzWUlFz3C0sXp
+
+29-05-2024 - Learned the C# from YouTube - https://youtu.be/ciFCKxjuirM?si=Ls6HzWUlFz3C0sXp
