@@ -34,7 +34,7 @@ Option 1: Full Stack .NET Developer  (UI + BACKEND)
 Option 2: .NET  Developer (Backend Developer) 
 Option 3: UI Developer (HTML/CSS/BOOTSTRAP/JAVA SCRIPT)
 
-	10) You must have received an email with subject Offer Documents to be submitted from hr@mnjsoftware.com and you must have replied to the same email with below details. if not done, do the needful on priority basis. 
+10) You must have received an email with subject Offer Documents to be submitted from hr@mnjsoftware.com and you must have replied to the same email with below details. if not done, do the needful on priority basis. 
 	• Updated Resume.
 	• Last 3 Month’s Pay slips / Bank Statement 
 	• Recent Hike letter.
@@ -68,11 +68,10 @@ Next Day Plan:
 14) Any prolonged periods of user inactivity leading to incomplete work shifts spanning multiple days will result in system deactivation by the support team. Interns are required to request approval for system access and provide an explanation for the situation to hr@mnjsoftware.com. Please note that repeated warnings regarding similar issues may lead to the termination of the internship without further notice.
 
 15) Please contact us promptly for a quick resolution for below scenarios:
-	• If your VPN connection is lost or not restored within 5 minutes of attempting to reconnect. The VPN status icon will indicate
-    connection establishment or restoration with a green indicator.
-	• If your remote desktop connection is lost or not restored within 5 minutes, attempt to establish or restore the connection. If
+• If your VPN connection is lost or not restored within 5 minutes of attempting to reconnect. The VPN status icon will indicate connection establishment or restoration with a green indicator.
+• If your remote desktop connection is lost or not restored within 5 minutes, attempt to establish or restore the connection. If
     successful, a connection to the remote PC will be established.
-	• Please note that the remote PC will automatically disconnect after 2 minutes of inactivity. If the connection is lost due to
+• Please note that the remote PC will automatically disconnect after 2 minutes of inactivity. If the connection is lost due to
     inactivity, please try to reconnect.
 	
 17) Moving forward, I would request you to send all the messages in the group only.
