@@ -119,3 +119,13 @@ Please list all the learning web url
 30-06-2024 - Learned the LINQ from YouTube - https://youtu.be/kjEafezHJw4?si=PLgC-l6PgjX6VYm1
 
 01-07-2024 - Learned the .NET CORE WEB API from YouTube - https://youtu.be/SQrtXFTPdN0?si=_nfEuLhcD8rUg4J4
+
+02-07-2024 - Learned the .NET CORE WEB API from YouTube - https://youtu.be/SQrtXFTPdN0?si=_nfEuLhcD8rUg4J4
+
+03-07-2024 - Learned the Entity Framework from YouTube - https://youtu.be/e9yxeoDRQn0?si=CH5H5jk42s3rackC
+
+04-07-2024 - Learned the REST API from YouTube - https://youtu.be/BZi44GOD8kY?si=rpSLiV_L7LrRPR3N and Learned the C# from YouTube - https://youtu.be/ciFCKxjuirM?si=Ls6HzWUlFz3C0sXp
+
+05-07-2024 - Learned the C# from YouTube - https://youtu.be/ciFCKxjuirM?si=Ls6HzWUlFz3C0sXp
+
+06-07-2024 - Learned the C# from YouTube - https://youtu.be/ciFCKxjuirM?si=Ls6HzWUlFz3C0sXp
