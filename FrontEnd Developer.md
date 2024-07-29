@@ -7,15 +7,16 @@ Project Type: ASP.NET CORE WEB APP (MVC) WITH C# + .NET FRAMEWORK: 7.0,
 
 2) Goal is to develop web application using the above suggested technologies - you are requested to review the GitHub invitation along with readme file for instruction.
 
-3) Complete the application form (UI + backend development) in next 30 days at max.
+3) Complete the application form (UI + backend development) in next 30 days at max. 
+ 	- [ ] https://github.com/mpytechnologies12/30DaysOfLearning/blob/main/Application%20Form%20Version%201.5.doc
 
-4) You would be learning or developing the application form on personal PC for next 30 days. 
+5) You would be learning or developing the application form on personal PC for next 30 days. 
 
-5) Please update your LinkedIn profile by adding your employer and send me your updated profile link along with snapshot
+6) Please update your LinkedIn profile by adding your employer and send me your updated profile link along with snapshot
 
-6) Odd Saturday are working and Even Saturday are off, 2 leaves per month (1 SL, 1 CL) + Public holiday
+7) Odd Saturday are working and Even Saturday are off, 2 leaves per month (1 SL, 1 CL) + Public holiday
 
-7) How to Setup Chrome Remote Desktop: 
+8) How to Setup Chrome Remote Desktop: 
 1)  https://drive.google.com/file/d/14HNezA6LU3QlmzAzxp2DDBSKlaR86Aqm
 
 2) Send Gmail id and Password along with PIN via WhatsApp
