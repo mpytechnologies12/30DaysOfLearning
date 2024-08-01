@@ -69,4 +69,4 @@ Next Day Plan:
 	• If your remote desktop connection is lost or not restored within 5 minutes, attempt to establish or restore the connection. If successful, a connection to the remote PC will be established.
 	• Please note that the remote PC will automatically disconnect after 2 minutes of inactivity. If the connection is lost due to inactivity, please try to reconnect.
 	
-16) Moving forward, I would request you to send all the messages in the group only.
+16) Moving forward, I would request you to create a whatsapp group - MNJ INTERN UI_DDMMYY_6_3 OR MNJ INTERN UI_DDMMYY_3_12 ( DDMMYY - DATE OF JOINING ), add +91-9654136060 (Admin), +91-7982733174 (Admin) and moving forward send all the messages in the group only.
