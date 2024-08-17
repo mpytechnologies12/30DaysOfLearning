@@ -1,13 +1,16 @@
 
 1) SELF LEARNING: Few topics to learn in next few days via books, online medium like web, YouTube etc. as per your convenience.
 Overview for HTML, CSS, BOOTSTRAP, JAVASCRIPT, AJAX, JQUERY
-Python - LIBRARIES OR FRAMEWORK - FAST API, REQUESTS, PANDAS 
+Python - LIBRARIES - FAST API, REQUESTS, PANDAS, ASyncio, Databricks, Context Managers
+Frameworks of python like Django, Flask, Pramid
+ORM libraries like Django ORM, SQLAlchemy
+ 
 
-Project Type: ASP.NET CORE WEB APP (MVC) WITH C# + .NET FRAMEWORK: 7.0, 
 
-2) Goal is to develop web application using the above suggested technologies - you are requested to review the GitHub invitation along with readme file for instruction.
 
-3) Complete the application form (UI + backend development) in next 30 days at max.
+3) Goal is to develop web application using the above suggested technologies - you are requested to review the GitHub invitation along with readme file for instruction.
+
+4) Complete the application form (UI + backend development) in next 30 days at max.
  - [ ] https://github.com/mpytechnologies12/30DaysOfLearning/blob/main/Application%20Form%20Version%201.5.doc
 
 4) You would be learning or developing the application form on personal PC for next 30 days. 
