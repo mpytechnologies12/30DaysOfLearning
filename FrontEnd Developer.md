@@ -7,7 +7,7 @@ Project Type: ASP.NET CORE WEB APP (MVC) WITH C# + .NET FRAMEWORK: 7.0,
 
 2) Goal is to develop web application using the above suggested technologies - you are requested to review the GitHub invitation along with readme file for instruction.
 
-3) Complete the application form (UI + backend development) in next 30 days at max. 
+3) Complete the application form (UI) in next 30 days at max. 
  	- [ ] https://github.com/mpytechnologies12/30DaysOfLearning/blob/main/Application%20Form%20Version%201.5.doc
 
 5) You would be learning or developing the application form on personal PC for next 30 days. 
