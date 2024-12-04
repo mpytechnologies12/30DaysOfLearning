@@ -68,7 +68,8 @@
 - [ ] Report any technical issues, such as VPN or remote desktop disconnection, to IT support if unresolved within 5 minutes.
 - [ ] Prolonged inactivity or unreported absence may lead to system deactivation. Request access reactivation with HR if necessary.
 - [ ] Send a learning status update following **point 11** in the instructions.
-
+- [ ] Create a whatsapp group as per **point 16** in the instructions.
+      
 #### First Task: Initiate Learning
 - [ ] Review the **instructions** provided in the repository.
 - [ ] Begin learning as specified in **point 1** of the instructions.
